@@ -29,3 +29,7 @@ main>.container {
     -webkit-text-stroke-color:rgb(255, 0, 255);
     color: white;
 }
+
+.minHeight {
+    min-height: 80vh;
+}
