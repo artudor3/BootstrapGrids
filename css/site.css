@@ -1,6 +1,7 @@
-main>.container {
+main>.container,
+main>.container-fluid {
     padding: 60px 15px 0;
-    margin-bottom: 5rem;
+    margin-bottom: 5rem
 }
 
 .sticky-footer {
@@ -19,14 +20,14 @@ main>.container {
     background: url(/img/GridBG.png)
 }
 
-.titleText{
+.titleText {
     font-family: 'Press Start 2P',
-    cursive;
+        cursive;
     font-size: 3em;
     font-weight: 700;
     text-transform: uppercase;
-    -webkit-text-stroke-width:1px;
-    -webkit-text-stroke-color:rgb(255, 0, 255);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(255, 0, 255);
     color: white;
 }
 
